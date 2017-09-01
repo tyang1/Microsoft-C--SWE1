@@ -1,0 +1,9 @@
+c:\users\tyang1\documents\visual studio 2017\Projects\robot\robot\bin\Debug\robot.exe.config
+c:\users\tyang1\documents\visual studio 2017\Projects\robot\robot\bin\Debug\robot.exe
+c:\users\tyang1\documents\visual studio 2017\Projects\robot\robot\bin\Debug\robot.pdb
+c:\users\tyang1\documents\visual studio 2017\Projects\robot\robot\obj\Debug\robot.csprojResolveAssemblyReference.cache
+c:\users\tyang1\documents\visual studio 2017\Projects\robot\robot\obj\Debug\robot.Form1.resources
+c:\users\tyang1\documents\visual studio 2017\Projects\robot\robot\obj\Debug\robot.Properties.Resources.resources
+c:\users\tyang1\documents\visual studio 2017\Projects\robot\robot\obj\Debug\robot.csproj.GenerateResource.Cache
+c:\users\tyang1\documents\visual studio 2017\Projects\robot\robot\obj\Debug\robot.exe
+c:\users\tyang1\documents\visual studio 2017\Projects\robot\robot\obj\Debug\robot.pdb

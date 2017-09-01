@@ -1,0 +1,9 @@
+c:\users\tyang1\documents\visual studio 2017\Projects\Reservation\Reservation\bin\Debug\Reservation.exe.config
+c:\users\tyang1\documents\visual studio 2017\Projects\Reservation\Reservation\bin\Debug\Reservation.exe
+c:\users\tyang1\documents\visual studio 2017\Projects\Reservation\Reservation\bin\Debug\Reservation.pdb
+c:\users\tyang1\documents\visual studio 2017\Projects\Reservation\Reservation\obj\Debug\Reservation.csprojResolveAssemblyReference.cache
+c:\users\tyang1\documents\visual studio 2017\Projects\Reservation\Reservation\obj\Debug\Reservation.Form1.resources
+c:\users\tyang1\documents\visual studio 2017\Projects\Reservation\Reservation\obj\Debug\Reservation.Properties.Resources.resources
+c:\users\tyang1\documents\visual studio 2017\Projects\Reservation\Reservation\obj\Debug\Reservation.csproj.GenerateResource.Cache
+c:\users\tyang1\documents\visual studio 2017\Projects\Reservation\Reservation\obj\Debug\Reservation.exe
+c:\users\tyang1\documents\visual studio 2017\Projects\Reservation\Reservation\obj\Debug\Reservation.pdb

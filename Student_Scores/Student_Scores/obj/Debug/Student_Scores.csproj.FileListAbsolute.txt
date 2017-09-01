@@ -1,0 +1,10 @@
+c:\users\tyang1\documents\visual studio 2017\Projects\Student_Scores\Student_Scores\obj\Debug\Student_Scores.csprojResolveAssemblyReference.cache
+c:\users\tyang1\documents\visual studio 2017\Projects\Student_Scores\Student_Scores\obj\Debug\Student_Scores.Form1.resources
+c:\users\tyang1\documents\visual studio 2017\Projects\Student_Scores\Student_Scores\obj\Debug\Student_Scores.NewStudent.resources
+c:\users\tyang1\documents\visual studio 2017\Projects\Student_Scores\Student_Scores\obj\Debug\Student_Scores.Properties.Resources.resources
+c:\users\tyang1\documents\visual studio 2017\Projects\Student_Scores\Student_Scores\obj\Debug\Student_Scores.csproj.GenerateResource.Cache
+c:\users\tyang1\documents\visual studio 2017\Projects\Student_Scores\Student_Scores\bin\Debug\Student_Scores.exe.config
+c:\users\tyang1\documents\visual studio 2017\Projects\Student_Scores\Student_Scores\bin\Debug\Student_Scores.exe
+c:\users\tyang1\documents\visual studio 2017\Projects\Student_Scores\Student_Scores\bin\Debug\Student_Scores.pdb
+c:\users\tyang1\documents\visual studio 2017\Projects\Student_Scores\Student_Scores\obj\Debug\Student_Scores.exe
+c:\users\tyang1\documents\visual studio 2017\Projects\Student_Scores\Student_Scores\obj\Debug\Student_Scores.pdb
