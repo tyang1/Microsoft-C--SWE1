@@ -1,14 +1,14 @@
 # Microsoft-C--SWE1
-Here's a brief project description of each listed in this folder:
-1. Calculate Area and Perimeter:
-Operation
-•	The user enters values for the length and width of a rectangle and clicks the Calculate button or presses the Enter key to activate that button.
-•	The application then displays the area and perimeter of the rectangle in the third and fourth labels on the right side of the form.
-Specifications
-•	The formula for calculating the area is width * length.
-•	The formula for calculating the perimeter is 2 * width + 2 * length.
-•	The application should accept fractional decimal entries like 10.5 and 20.65.
-•	Assume that the user will enter valid numeric data for the length and width.
+#Here's a brief project description of each listed in this folder:
+#1. Calculate Area and Perimeter:
+#Operation
+#•	The user enters values for the length and width of a rectangle and clicks the Calculate button or presses the Enter key to activate #that button.
+#•	The application then displays the area and perimeter of the rectangle in the third and fourth labels on the right side of the form.
+#Specifications
+#•	The formula for calculating the area is width * length.
+#•	The formula for calculating the perimeter is 2 * width + 2 * length.
+#•	The application should accept fractional decimal entries like 10.5 and 20.65.
+#•	Assume that the user will enter valid numeric data for the length and width.
 
 
 2. Calculate the Factorial of a Number:
